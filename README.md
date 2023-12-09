@@ -1,4 +1,4 @@
-# File Reading Program with Pandas
+# File Reading Program in Pandas
 
 This Python-based program harnesses the capabilities of Pandas within Jupyter Notebooks to efficiently read and manipulate diverse file formats. It offers seamless reading, analysis, and visualization for files like CSV, Excel, JSON, and more.
 
